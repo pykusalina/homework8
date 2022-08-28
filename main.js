@@ -21,7 +21,7 @@
 
  // Task3
 //  let string = "cdbBdbsbz";
-// string.exec(\w)
+//  let reg = 
 
 // Task 4
 // let string = "Java Script";
